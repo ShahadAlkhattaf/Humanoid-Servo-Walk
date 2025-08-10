@@ -63,13 +63,13 @@ void moveAllServos(int angle) {
 
 ---
 
-## 🖼️ Circuit Preview
+## Circuit Preview
 
 <img src="screenshot" width = 400>
 
 ---
 
-## 📋 Algorithm: Humanoid Robot Walking Motion
+## Algorithm: Humanoid Robot Walking Motion
 
 ### 1. Initialization
 - **Attach Servos:** Connect hip and knee servos to microcontroller pins.  
